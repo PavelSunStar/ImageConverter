@@ -161,7 +161,7 @@ void fileSelected(File file) {
             {
               winXX = img.width + 5;
               winYY = img.height + 5;
-              //surface.setSize(winXX, winYY);
+              surface.setSize(winXX, winYY);
             }
             
 //Запись пропусков    
